@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Angular App"
-date:   2015-02-10 22:03:35
+date:   2014-09-01 22:03:35
 categories: projects
 ---
 Here's the first app I worked on in Angular:
