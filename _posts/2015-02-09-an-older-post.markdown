@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 I recently did some angular work hitting the Github API.
 
-See more here:  <a href="/gitlove">Gitlove</a>
+See more here:  <a href="/gitLove">Gitlove</a>
 
 <!-- Lets see if it worked
 
