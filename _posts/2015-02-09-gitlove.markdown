@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "GitLove"
+date:   2015-02-09 22:03:35
+categories: projects
+---
+I recently did some angular work hitting the Github API.
+
+It also utilizes angular models, sorting, basic factories, and routing.
+
+See it live here:  <a href="/gitLove">Gitlove</a>
+
+See the github repo here:  <a href="https://github.com/jackeller/gitLove">https://github.com/jackeller/gitLove</a>

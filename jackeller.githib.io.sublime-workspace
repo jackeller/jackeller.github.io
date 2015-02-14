@@ -490,6 +490,7 @@
 	],
 	"file_history":
 	[
+		"/Users/kellerj1/jackeller.github.io/_posts/2015-02-12-building-this-site.markdown",
 		"/Users/kellerj1/jackeller.github.io/_posts/2014-09-01-first-angular-app.markdown",
 		"/Users/kellerj1/jackeller.github.io/_posts/2015-02-09-an-older-post.markdown",
 		"/Users/kellerj1/jackeller.github.io/_includes/footer.html",
@@ -616,8 +617,7 @@
 		"/Users/kellerj1/jboss/jboss-eap-5.1/jboss-as/server/urban-store/deploy/urban.ear/Web.war/user/orderhistory.jsp",
 		"/Users/kellerj1/jboss/jboss-eap-5.1/jboss-as/server/urban-store/deploy/urban.ear/Web.war/app/src/modules/sizechart/directives/sizechartDirectives.js",
 		"/Users/kellerj1/jboss/jboss-eap-5.1/jboss-as/server/urban-store/deploy/urban.ear/Web.war/app/src/modules/sizechart/sizechartModule.js",
-		"/Users/kellerj1/jboss/jboss-eap-5.1/jboss-as/server/urban-store/deploy/urban.ear/Web.war/signup/emailsignup.jsp",
-		"/bin/bash"
+		"/Users/kellerj1/jboss/jboss-eap-5.1/jboss-as/server/urban-store/deploy/urban.ear/Web.war/signup/emailsignup.jsp"
 	],
 	"find":
 	{
@@ -1550,7 +1550,7 @@
 		[
 			[
 				"",
-				"/Users/kellerj1/blog/blog.sublime-project"
+				"~/gitLove/gitLove.sublime-workspace"
 			],
 			[
 				"blog",

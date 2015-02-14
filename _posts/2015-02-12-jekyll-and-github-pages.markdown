@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building this Site"
+title:  "Jekyll and Github Pages"
 date:   2015-02-12 22:03:35
 categories: projects
 ---
